@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hector Brito</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate Data Engineer Jr and Web Developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **Python, Javascript and PHP**
 
